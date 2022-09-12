@@ -1,0 +1,1 @@
+{"name":"todoContainer1024","type":"ui-container","source":{"https":"https://github.com/Digambaran/todoContainer1024","ssh":"git@github.com:Digambaran/todoContainer1024.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":false}
